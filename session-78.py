@@ -15,3 +15,8 @@ while i < len(text):
     i += 1
 
 
+string = "mammamia"
+string[1]
+string[1] = "b"
+
+
